@@ -61,7 +61,7 @@ database/tracehive.sql
 ### Step 4
 Run Project:
 
-http://localhost/CampuRecover
+http://localhost/CampusRecover
 
 ---
 
