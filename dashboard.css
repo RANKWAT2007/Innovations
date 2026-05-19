@@ -1,0 +1,38 @@
+.sidebar{
+    width:250px;
+    height:100vh;
+    background:#0F766E;
+    position:fixed;
+    padding:30px;
+}
+
+.sidebar h3{
+    color:white;
+    margin-bottom:30px;
+}
+
+.sidebar a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    margin-bottom:15px;
+    padding:10px;
+    border-radius:8px;
+    transition:0.3s;
+}
+
+.sidebar a:hover{
+    background:rgba(255,255,255,0.2);
+}
+
+.dashboard-content{
+    margin-left:270px;
+    padding:40px;
+}
+
+.stats-card{
+    background:white;
+    border-radius:20px;
+    padding:30px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}

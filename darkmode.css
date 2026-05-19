@@ -1,0 +1,23 @@
+.dark-mode{
+    background:#0f172a;
+    color:white;
+}
+
+.dark-mode .card-custom{
+    background:#1e293b;
+    color:white;
+}
+
+.dark-mode .navbar{
+    background:#020617;
+}
+
+.dark-mode .form-control{
+    background:#334155;
+    border:1px solid #475569;
+    color:white;
+}
+
+.dark-mode .footer{
+    background:#020617;
+}
